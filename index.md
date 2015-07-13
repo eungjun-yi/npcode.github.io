@@ -4,6 +4,8 @@ title: My Profile
 
 ## Yi EungJun
 
+I am a web programmer working at [Naver Labs](http://lab.naver.com/).
+
 * [LinkedIn](https://www.linkedin.com/in/npcode)
 * [Github](https://github.com/npcode)
 * [Twitter](https://twitter.com/semtlnori)
