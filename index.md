@@ -4,8 +4,7 @@ title: My Profile
 
 ## Yi EungJun
 
-I am a web programmer working at [Naver Labs](http://lab.naver.com/). My job is
-making [Yobi](https://github.com/naver/yobi).
+I am a web programmer working at [Naver corp](http://www.navercorp.com/).
 
 * [LinkedIn](https://www.linkedin.com/in/npcode)
 * [Github](https://github.com/npcode)
