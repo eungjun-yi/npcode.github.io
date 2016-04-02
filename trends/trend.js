@@ -7,11 +7,13 @@ var projs;
 
 function drawLines(data) {
   var options = {
+    title: 'Github Stars Over Time',
+    height: '400',
     hAxis: {
       title: 'Date'
     },
     vAxis: {
-      title: 'Github stars'
+      title: 'Stars'
     }
   };
 
